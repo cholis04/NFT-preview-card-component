@@ -13,5 +13,4 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/cholis04/NFT-preview-card-component)
-- Live Site URL: [Add live site URL here](https://cholis04.github.io/NFT-preview-card-component/)
+- Live Site URL: [NFT Preview Card Component](https://cholis04.github.io/NFT-preview-card-component/)
