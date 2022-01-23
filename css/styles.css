@@ -85,14 +85,14 @@ main {
   opacity: 1;
 }
 
-.card > h3 {
+.card > h1 {
   font-size: 22px;
   font-weight: 600;
   margin: 24px 0 18px 0;
   color: var(--text-clicked);
   transition: color 0.3s ease-in;
 }
-.card > h3:hover {
+.card > h1:hover {
   cursor: pointer;
   color: var(--hover-color);
 }
